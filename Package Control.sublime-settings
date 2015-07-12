@@ -5,12 +5,9 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Emmet",
 		"Git",
+		"HTML-CSS-JS Prettify",
 		"Package Control",
-		"RailsCasts Colour Scheme",
-		"Sass",
-		"SublimeERB",
-		"SyncedSideBar"
+		"Pretty JSON"
 	]
 }
