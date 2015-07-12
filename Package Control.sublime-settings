@@ -5,9 +5,12 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Emmet",
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
-		"Pretty JSON"
+		"Pretty JSON",
+		"Sass",
+		"SyncedSideBar"
 	]
 }
